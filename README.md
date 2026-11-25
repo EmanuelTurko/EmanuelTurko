@@ -34,8 +34,6 @@
 
 &nbsp;
 
-## 🚀 &nbsp;What I've built
-
 | Project | What it does | Stack |
 |:--|:--|:--|
 | [**compiler**](https://github.com/EmanuelTurko/compiler) | Compiles a C-like language to x86-64 assembly. Lexer, recursive-descent parser, AST, codegen for functions, loops and scopes. | `C++20` `x86-64` |
@@ -45,8 +43,8 @@
 
 &nbsp;
 
-## 📊 &nbsp;Stats
+## 💻 &nbsp;whoami
 
 <p align="center">
-  <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=EmanuelTurko&theme=dark&background=0b0f17&border=1e293b&ring=3b82f6&fire=60a5fa&currStreakLabel=60a5fa&sideLabels=94a3b8&dates=64748b&currStreakNum=f1f5f9&sideNums=f1f5f9&stroke=1e293b" />
+  <img src="./fetch.svg" alt="fastfetch-style card: Linux, C++20, C, x86-64 asm, GCC, CMake, Git; built a compiler, a Redis clone and an HTTP server" />
 </p>
