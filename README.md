@@ -40,11 +40,3 @@
 | [**redis**](https://github.com/EmanuelTurko/redis) | In-memory key-value server. `poll()` event loop, progressive-rehash hashtable, AVL sorted sets, TTL heap, thread pool. | `C++17` `TCP` |
 | [**site**](https://github.com/EmanuelTurko/site) | My portfolio site, with an HTTP backend in C++ on Boost.Asio/Beast. | `C++` `Boost` |
 | [**SafeHer**](https://github.com/EmanuelTurko/SafeHer) | IoT safety pendant (B.Sc. capstone). ESP32-S3 camera firmware and BLE to Android. | `C++` `ESP32` |
-
-&nbsp;
-
-## 💻 &nbsp;whoami
-
-<p align="center">
-  <img src="./fetch.svg" alt="fastfetch-style card: Linux, C++20, C, x86-64 asm, GCC, CMake, Git; built a compiler, a Redis clone and an HTTP server" />
-</p>
